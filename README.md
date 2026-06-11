@@ -23,11 +23,11 @@ python manage.py runserver
 python manage.py createsuperuser
 Acessar: http://127.0.0.1:8000/admin/
 
-## Endpoints da API
+## Endpoints 
 - GET /api/produtos/
 - GET /api/categorias/
 - POST /api/produtos/
 - POST /api/categorias/
 
-## Link da API publicada
+## Link da API
 http://catalogo-produtos-env.eba-jp6chvm6.us-east-2.elasticbeanstalk.com/api/
